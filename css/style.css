@@ -17,7 +17,6 @@ body {
     color: rgb(112, 66, 20);
     margin-top: 20px;
     margin-bottom: 20px;
-    position:sticky;
 }
 .recipe-button {
     display: block;
@@ -41,7 +40,7 @@ body {
 }
 .references{
     font-family: 'Papyrus', sans-serif;
-    font-size: 1 rem;
+    font-size: 1.5rem;
     color: rgb(0, 0, 0);
     margin-top: -5px;
     margin-bottom: 50px;
